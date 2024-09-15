@@ -1,0 +1,2 @@
+# Face_recognition_login_system 
+ This project is a Face Recognition Login System that uses facial recognition for secure user authentication. It registers users with their face data, along with personal information such as name, phone number, and position, stored in an Excel file and pickle format. Users can log in via face recognition or fall back to username and password if the face is not recognized.
